@@ -10,4 +10,5 @@ compare their operating efficiency.
 # JIT technology
 This project is implemented by C language. We use function pointer as the main way to implement JIT compiling.
 
+# From Author
 I welcome all professionals or hobbyists for research and learning purposes to use this project. Commercial use is prohibited.
